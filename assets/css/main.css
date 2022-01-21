@@ -2248,7 +2248,6 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-size: auto;
 				background-image: url("../../images/bg.jpg");
 			}
 
@@ -2294,6 +2293,10 @@ input, select, textarea {
 			#main {
 				margin-left: 300px;
 			}
+			#main > section.one {
+				background-color: #81918E;
+				background-image: url("../../images/bg.jpg");
+			}
 
 	}
 
@@ -2309,6 +2312,11 @@ input, select, textarea {
 
 			#main section.cover {
 				padding: 5em 0;
+			}
+
+			#main > section.one {
+				background-color: #81918E;
+				background-image: url("../../images/bg.jpg");
 			}
 
 	}
@@ -2376,6 +2384,10 @@ input, select, textarea {
 
 			#main {
 				margin-left: 20%;
+			}
+			#main > section.one {
+				background-color: #81918E;
+				background-image: url("../../images/bg.jpg");
 			}
 
 	}
@@ -2576,6 +2588,10 @@ input, select, textarea {
 				#main section.cover {
 					padding: 4em 0;
 				}
+				#main > section.one {
+					background-color: #81918E;
+					background-image: url("../../images/logo.png");
+				}
 
 	}
 
@@ -2618,6 +2634,10 @@ input, select, textarea {
 
 				#main section.cover header {
 					padding: 0 1em;
+				}
+				#main > section.one {
+					background-color: #81918E;
+					background-image: url("../../images/logo.png");
 				}
 
 		/* Footer */
